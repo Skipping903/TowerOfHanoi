@@ -28,7 +28,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="tower0ButtonPressed"
-                android:text="Tower 1" />
+                android:text="Tower 0" />
 
             <Button
                 android:id="@+id/tower1"
@@ -36,7 +36,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="tower1ButtonPressed"
-                android:text="Tower 2" />
+                android:text="Tower 1" />
 
             <Button
                 android:id="@+id/tower2"
@@ -44,7 +44,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="tower2ButtonPressed"
-                android:text="Tower 3" />
+                android:text="Tower 2" />
         </LinearLayout>
 
         <LinearLayout
